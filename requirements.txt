@@ -5,7 +5,7 @@ tqdm==4.31.1
 numpy==1.11.3+mkl
 networkx==2.2
 pandas==0.19.2
-ipython==7.5.0
+ipython==7.16.3
 dill==0.2.9
 python_igraph==0.7.1.post6
 numpy==1.16.3
